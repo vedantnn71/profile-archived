@@ -11,7 +11,7 @@
 
 - 👨‍💻 Know more about me [vedantnandwana.me](vedantnandwana.me)
 
-- 📫 How to reach me **vedantnn07@gmail.com**
+- 📫 How to reach me **hello@vedantnandwana.me**
 
 - ⚡ Fun fact **I drink a lot coffee**
 
