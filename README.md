@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently mastering **Typescript**
 
-- 🤝 I’m looking for help with **building great websites**
+- 🤝 I’m can help you with with **building great websites**
 
 - 👨‍💻 Know more about me [vedantnandwana.me](vedantnandwana.me)
 
 - 📫 How to reach me **hello@vedantnandwana.me**
 
-- ⚡ Fun fact **I drink a lot coffee**
+- ☕ Fun fact **I drink a lot coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
