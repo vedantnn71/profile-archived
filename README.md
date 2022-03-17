@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/vedantnn7" target="blank"><img src="https://img.shields.io/twitter/follow/vedantnn7?logo=twitter&style=for-the-badge" alt="vedantnn7" /></a> </p>
 
-- 🔭 I’m currently working on [Sivgen](https://github.com/vedantnn71/sivgen)
+- 🔭 I’m currently working on [Focushype](https://focushype.software)
 
 - 🌱 I’m currently mastering **Typescript**
 
