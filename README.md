@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Banble](https://banble.netlify.app) & [Vity.nvim](https://github.com/vedantnn71/vity.nvim)
 
-- 🌱 I’m currently mastering **Typescript**
+- 🌱 I’m currently mastering **Go**
 
 - 🤝 I’m can help you with with **building great websites**
 
