@@ -2,14 +2,15 @@
 <h3 align="center">Passionate and autodidact web developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/vedantnn7" target="blank"><img src="https://img.shields.io/twitter/follow/vedantnn7?logo=twitter&style=for-the-badge" alt="vedantnn7" /></a> </p>
+<p align="left"> <a href="https://instagram.com/vedantnn7" target="blank"><img src="https://img.shields.io/instagram/follow/vedantnn7?logo=instagram&style=for-the-badge" alt="vedantnn7" /></a> </p>
 
 - 🔭 I’m currently working on [Banble](https://banble.netlify.app)
-- 
+
 - 🤝 I can help you with with **building great websites**
 
 - 👨‍💻 Know more about me [vedantnandwana.me](vedantnandwana.me)
 
-- 📫 How to reach me **hello@vedantnandwana.me**
+- 📫 Want to talk? shoot me a DM or email me at **hello@vedantnandwana.me**
 
 - ☕ Fun fact **I drink a lot coffee**
 
