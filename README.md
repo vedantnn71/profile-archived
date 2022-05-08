@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/vedantnn7" target="blank"><img src="https://img.shields.io/twitter/follow/vedantnn7?logo=twitter&style=for-the-badge" alt="vedantnn7" /></a> </p>
 
-- 🔭 I’m currently working on [Banble](https://banble.netlify.app) & [Vity.nvim](https://github.com/vedantnn71/vity.nvim)
-
-- 🌱 I’m currently mastering **Go**
-
-- 🤝 I’m can help you with with **building great websites**
+- 🔭 I’m currently working on [Banble](https://banble.netlify.app)
+- 
+- 🤝 I can help you with with **building great websites**
 
 - 👨‍💻 Know more about me [vedantnandwana.me](vedantnandwana.me)
 
