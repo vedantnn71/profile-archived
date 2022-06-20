@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/vedantnn7" target="blank"><img src="https://img.shields.io/twitter/follow/vedantnn7?logo=twitter&style=for-the-badge" alt="vedantnn7" /></a> </p>
 <p align="left"> <a href="https://instagram.com/vedantnn7" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="vedantnn7" /></a> </p>
 
-- 🔭 I’m currently working on [Banble](https://banble.netlify.app)
+- 🔭 I’m currently working on [Onebox](https://github.com/vedantnn71/onebox-app)
 
 - 🤝 I can help you with with **building great websites**
 
@@ -12,7 +12,7 @@
 
 - 📫 Want to talk? shoot me a DM or email me at **hello@vedantnandwana.me**
 
-- ☕ Fun fact **I drink a lot coffee**
+- ☕ Fun fact **I drink a lot tea**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
