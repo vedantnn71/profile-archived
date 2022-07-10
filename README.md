@@ -12,7 +12,7 @@
 
 - 📫 Want to talk? shoot me a DM or email me at **hello@vedantnandwana.me**
 
-- ☕ Fun fact **I drink a lot tea**
+- ☕ Fun fact **I drink tea a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
