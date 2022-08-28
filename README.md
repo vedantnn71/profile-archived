@@ -35,4 +35,18 @@ I'm a young web developer with a great passion for building stuff that make shit
 
 ### Time I spent while writing code
 <!--START_SECTION:waka-->
+
+```text
+From: 08 May 2022 - To: 27 August 2022
+
+Total Time: 225 hrs
+
+TypeScript       140 hrs 33 mins >>>>>>>>>>>>>>>>---------   62.47 %
+sh               18 hrs 33 mins  >>-----------------------   08.25 %
+JSON             13 hrs 46 mins  >>-----------------------   06.12 %
+Rust             11 hrs 33 mins  >------------------------   05.14 %
+JavaScript       8 hrs 21 mins   >------------------------   03.71 %
+Bash             4 hrs 52 mins   >------------------------   02.16 %
+```
+
 <!--END_SECTION:waka-->
