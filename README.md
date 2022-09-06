@@ -4,7 +4,7 @@ Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Web developer and highly passionate builder 🛠️
 -----------------------------------------------
 
-I'm a young web developer with a great passion for building stuff that make shit easier.
+I'm a young web developer with a great passion for building stuff that makes shit easier.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [vedantnandwana.me](http://vedantnandwana.me)
