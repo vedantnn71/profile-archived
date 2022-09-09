@@ -9,7 +9,6 @@ I'm a young web developer with a great passion for building stuff that makes shi
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [vedantnandwana.me](http://vedantnandwana.me)
 * ✉️  You can contact me at [hello@vedantnandwana.me](mailto:hello@vedantnandwana.me)
-* 🚀  I'm currently working on [Bliq](http://getbliq.vercel.app)
 
 ### Skills
 
