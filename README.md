@@ -49,3 +49,8 @@ CSS              5 hrs 34 mins   >------------------------   02.12 %
 ```
 
 <!--END_SECTION:waka-->
+
+
+<!--START_SECTION:activity-->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=vedantnn71.vedantnn71)
+<!--END_SECTION:activity-->
