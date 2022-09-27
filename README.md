@@ -36,7 +36,7 @@ I'm a young web developer with a great passion for building stuff that makes shi
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 May 2022 - To: 25 September 2022
+From: 08 May 2022 - To: 26 September 2022
 
 Total Time: 266 hrs 1 min
 
