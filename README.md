@@ -36,16 +36,16 @@ I'm a young web developer with a great passion for building stuff that makes shi
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 May 2022 - To: 30 October 2022
+From: 08 May 2022 - To: 31 October 2022
 
-Total Time: 429 hrs 27 mins
+Total Time: 433 hrs 3 mins
 
-TypeScript       255 hrs 46 mins >>>>>>>>>>>>>>>----------   59.56 %
-JavaScript       24 hrs 37 mins  >------------------------   05.73 %
-JSON             23 hrs 49 mins  >------------------------   05.55 %
-Svelte           22 hrs 30 mins  >------------------------   05.24 %
-Rust             21 hrs 56 mins  >------------------------   05.11 %
-sh               18 hrs 39 mins  >------------------------   04.34 %
+TypeScript       259 hrs 22 mins >>>>>>>>>>>>>>>----------   59.89 %
+JavaScript       24 hrs 37 mins  >------------------------   05.69 %
+JSON             23 hrs 49 mins  >------------------------   05.50 %
+Svelte           22 hrs 30 mins  >------------------------   05.20 %
+Rust             21 hrs 56 mins  >------------------------   05.07 %
+sh               18 hrs 39 mins  >------------------------   04.31 %
 ```
 
 <!--END_SECTION:waka-->
