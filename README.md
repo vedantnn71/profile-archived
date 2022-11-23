@@ -1,9 +1,6 @@
 Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Vedant
 =======================================================================================================================================
 
-Web developer and highly passionate builder 🛠️
------------------------------------------------
-
 I'm an ardent designer and developer based in India who loves playing with pixels and building stuff that makes life easier. I'm also open for remote job opportunities and can help you in crafting delightful web experiences.
 
 * 🖥️  See my portfolio at [vedantnandwana.me](http://vedantnandwana.me)
