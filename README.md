@@ -14,16 +14,16 @@ I'm an ardent designer and developer based in India who loves playing with pixel
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 May 2022 - To: 31 December 2022
+From: 08 May 2022 - To: 02 January 2023
 
-Total Time: 633 hrs 1 min
+Total Time: 641 hrs 31 mins
 
-TypeScript        417 hrs 28 mins >>>>>>>>>>>>>>>>---------   65.95 %
-Rust              31 hrs 3 mins   >------------------------   04.91 %
-JavaScript        29 hrs 27 mins  >------------------------   04.65 %
-JSON              29 hrs 3 mins   >------------------------   04.59 %
-Svelte            22 hrs 34 mins  >------------------------   03.57 %
-sh                18 hrs 53 mins  >------------------------   02.99 %
+TypeScript        422 hrs 33 mins >>>>>>>>>>>>>>>>---------   65.87 %
+Rust              31 hrs 3 mins   >------------------------   04.84 %
+JavaScript        29 hrs 34 mins  >------------------------   04.61 %
+JSON              29 hrs 5 mins   >------------------------   04.54 %
+Svelte            22 hrs 34 mins  >------------------------   03.52 %
+sh                19 hrs 11 mins  >------------------------   02.99 %
 ```
 
 <!--END_SECTION:waka-->
