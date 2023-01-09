@@ -14,7 +14,7 @@ I'm an ardent designer and developer based in India who loves playing with pixel
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 May 2022 - To: 07 January 2023
+From: 08 May 2022 - To: 08 January 2023
 
 Total Time: 645 hrs 3 mins
 
