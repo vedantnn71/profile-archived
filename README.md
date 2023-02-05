@@ -1,8 +1,8 @@
 #### Hey! I'm Vedant. An ardent developer, designer and indie maker.
 - ✨ Crafting [Beacon](https://github.com/withbeacon/beacon)
-- 💙 Ardent for crafting delightful user experiences and interfaces
+- 💙 Passionate for crafting delightful user experiences and interfaces
 - 🚀 I mostly work with typescript, react, nextjs, etc
-- 🔍 Btw: I open for fullstack or frontend roles
+- 🔍 Btw: I'm open for fullstack or frontend roles
 
 #### Social Links
 - [🐦 Twitter](https://twitter.com/vedantnn7)
