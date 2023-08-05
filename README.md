@@ -1,5 +1,4 @@
 ##### Hey! I'm Vedant 👋
-- 🚀 I'm currently building <a href="https://github.com/withbeacon/beacon">@withbeacon</a>
 - 🌠 I love using bleeding edge tech 
 - 🚅 I mostly work with `.ts`
 - 🦀 Exploring `.rs` in my free time :)
